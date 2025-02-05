@@ -1,10 +1,10 @@
 {
-  "name": "@frontity/now",
+  "name": "@tiborudvari/now-builder",
   "version": "1.2.2",
   "description": "A Frontity builder for the Now hosting (Zeit)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontity/now-builder.git"
+    "url": "git+https://github.com/frontity/now-builder.git"
   },
   "main": "./dist/index.js",
   "keywords": [
@@ -12,7 +12,7 @@
     "now",
     "builder"
   ],
-  "author": "Luis Herranz",
+  "author": "Tibor Udvari, Luis Herranz",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/frontity/now-builder/issues"
