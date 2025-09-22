@@ -4,7 +4,7 @@
   "description": "A Frontity builder for the Now hosting (Zeit)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frontity/now-builder.git"
+    "url": "git+https://github.com/TiborUdvari/now-builder.git"
   },
   "main": "./dist/index.js",
   "keywords": [
