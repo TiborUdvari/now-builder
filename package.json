@@ -1,6 +1,6 @@
 {
   "name": "@tiborudvari/now-builder",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "A Frontity builder for the Now hosting (Zeit)",
   "repository": {
     "type": "git",
