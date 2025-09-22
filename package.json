@@ -1,6 +1,6 @@
 {
   "name": "@tiborudvari/now-builder",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A Frontity builder for the Now hosting (Zeit)",
   "repository": {
     "type": "git",
@@ -21,6 +21,9 @@
   "files": [
     "dist"
   ],
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
